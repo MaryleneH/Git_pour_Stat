@@ -6,3 +6,4 @@ _cache/
 # Ignorer les fichiers de configuration et caches de VSCode
 .vscode/
 *.code-workspace
+/.quarto/
