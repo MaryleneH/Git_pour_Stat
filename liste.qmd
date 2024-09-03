@@ -1,0 +1,29 @@
+---
+title: "Liste commandes"
+---
+
+Pour faciliter l'apprentissage de Git, quelques commandes à apprendre :
+
+# Bash et quelques commandes Linux
+
+-   `mkdir` : créer un répertoire
+
+-   `mkdir -p dossier1/dossier2/c` : permet de créer également le répertoire parent s'il n'existe pas (ici créera `dossier1` et `dossier2` si non existant)
+
+-   `touch nom_fichier` : exemple –\> `touch test.txt`
+
+-   `ls` : liste les fichiers et dossiers
+
+-   `ls -a` : liste aussi les dossiers cachés
+
+-   `ls -l` ou `ll` : liste en format long
+
+-   `cd` : pour changer de répertoire
+
+    -   `..` : répertoire parent et `.` répertoire courant
+
+-   `rm` : supprimer (attention définitif)
+
+-   `cat nom-fichier` : affiche le contenu du fichier
+
+-   `echo $0` : connaître le shell utilisé
